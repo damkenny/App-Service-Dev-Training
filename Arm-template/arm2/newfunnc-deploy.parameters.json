@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionId": {
+            "value": "" // TODO: Fill in parameter value
+        },
+        "name": {
+            "value": "" // TODO: Fill in parameter value
+        },
+        "location": {
+            "value": "" // TODO: Fill in parameter value
+        },
+        "hostingPlanName": {
+            "value": "" // TODO: Fill in parameter value
+        },
+        "serverFarmResourceGroup": {
+            "value": "" // TODO: Fill in parameter value
+        },
+        "alwaysOn": {
+            "value": false // TODO: Fill in parameter value
+        },
+        "storageAccountName": {
+            "value": "" // TODO: Fill in parameter value
+        }
+    }
+}
